@@ -66,6 +66,7 @@ func main() {
 				switch question {
 				case "quit":
 					quit = true
+					fmt.Println("\n Come back soon!")
 
 				default:
 					fmt.Println("👇")
